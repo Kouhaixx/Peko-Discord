@@ -5,13 +5,13 @@
  * @description peko
 */
 
-@import url("https://raw.githack.com/Kouhaixx/Peko-Discord/main/Pekora.css");
+@import url("https://kouhaixx.github.io/Peko-Discord/Pekora.css");
 
 /* BlackBox tags */
-@import url('https://raw.githack.com/Kouhaixx/Peko-Discord/main/user-tags.css');
+@import url('https://kouhaixx.github.io/Peko-Discord/user-tags.css');
 
 /* Old Windows titlebar - remove this @import if you wish to use default titlebar */
-@import url("https://raw.githack.com/Kouhaixx/Peko-Discord/main/import-windows-titlebar.css");
+@import url("https://kouhaixx.github.io/Peko-Discord/import-windows-titlebar.css");
 
 :root {
   /* Background image variables */

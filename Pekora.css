@@ -497,7 +497,7 @@ textarea {
   content: "";
   border-radius: 50%;
   position: absolute;
-  background: var(--home-button-image, url("https://raw.githack.com/Kouhaixx/Peko-Discord/main/discord.svg"));
+  background: var(--home-button-image, url("https://kouhaixx.github.io/Peko-Discord/discord.svg"));
   background-size: var(--home-button-size, cover);
   background-position: var(--home-button-position, center);
   background-repeat: var(--home-button-repeat, no-repeat);
