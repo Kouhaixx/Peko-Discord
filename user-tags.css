@@ -1,6 +1,6 @@
 @charset "UTF-8";
-@import "https://raw.githubusercontent.com/Kouhaixx/Peko-Discord/main/donator-tags.css";
-@import "https://raw.githubusercontent.com/Kouhaixx/Peko-Discord/main/tag-animations.css";
+@import "https://raw.githack.com/Kouhaixx/Peko-Discord/main/donator-tags.css";
+@import "https://raw.githack.com/Kouhaixx/Peko-Discord/main/tag-animations.css";
 
 :root {
   --mc: var(--main-color);
