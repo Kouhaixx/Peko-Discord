@@ -1,5 +1,5 @@
 :root {
-  --version: "Pekora 111";
+  --version: "Frosted Glass 2.0.15";
   --TB-top: calc(var(--server-container) + var(--window-padding));
   --TB-tr-roundness: var(--window-roundness);
   --TB-position-top: var(--TB-top, var(--window-padding));
@@ -134,7 +134,7 @@
 }
 
 #app-mount .app-2CXKsg::before {
-  content: "Your version of Pekora is outdated. Please redownload";
+  content: "Your version of Frosted Glass is outdated. Please redownload";
   white-space: pre-wrap;
   display: var(--update-notice-1, block);
   color: #fff;
