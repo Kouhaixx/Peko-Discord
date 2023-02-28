@@ -1,5 +1,5 @@
 :root {
-  --version: "Frosted Glass 2.0.15";
+  --version: "Pekora 111";
   --TB-top: calc(var(--server-container) + var(--window-padding));
   --TB-tr-roundness: var(--window-roundness);
   --TB-position-top: var(--TB-top, var(--window-padding));
@@ -134,7 +134,7 @@
 }
 
 #app-mount .app-2CXKsg::before {
-  content: "Your version of Frosted Glass is outdated. Please redownload";
+  content: "Your version of Pekora is outdated. Please redownload";
   white-space: pre-wrap;
   display: var(--update-notice-1, block);
   color: #fff;
@@ -233,7 +233,7 @@ textarea {
 #app-mount .quickswitcher-pKcM9U,
 #app-mount .root-1gCeng.wrapper-2ZbzR9,
 #app-mount .modalRoot-1Kx4Hb,
-#app-mount .container-3JTnYm.thin-1ybCId.scrollerBase-_bVAAt,
+#app-mount .container-3JTnYm.thin-1ybCId.scrollerBase-1Pkza4,
 #app-mount .popoutContainer-2wbmiM,
 #app-mount .userProfileModalOuter-1FYL8T,
 #app-mount .container-2O1UgZ,
@@ -259,7 +259,7 @@ textarea {
 #app-mount .quickswitcher-pKcM9U::before,
 #app-mount .root-1gCeng.wrapper-2ZbzR9::before,
 #app-mount .modalRoot-1Kx4Hb::before,
-#app-mount .container-3JTnYm.thin-1ybCId.scrollerBase-_bVAAt::before,
+#app-mount .container-3JTnYm.thin-1ybCId.scrollerBase-1Pkza4::before,
 #app-mount .popoutContainer-2wbmiM::before,
 #app-mount .userProfileModalOuter-1FYL8T::before,
 #app-mount .container-2O1UgZ::before,
@@ -475,10 +475,10 @@ textarea {
 #app-mount .guilds-2JjMmN {
   background-color: transparent;
 }
-#app-mount .guilds-2JjMmN .scrollerBase-_bVAAt {
+#app-mount .guilds-2JjMmN .scrollerBase-1Pkza4 {
   background-color: rgb(0, 0, 0, var(--serverlist-brightness));
 }
-#app-mount .guilds-2JjMmN .scrollerBase-_bVAAt::-webkit-scrollbar {
+#app-mount .guilds-2JjMmN .scrollerBase-1Pkza4::-webkit-scrollbar {
   display: none;
 }
 
@@ -497,7 +497,7 @@ textarea {
   content: "";
   border-radius: 50%;
   position: absolute;
-  background: var(--home-button-image, url("https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/assets/discord.svg"));
+  background: var(--home-button-image, url("https://raw.githubusercontent.com/Kouhaixx/Peko-Discord/main/discord.svg"));
   background-size: var(--home-button-size, cover);
   background-position: var(--home-button-position, center);
   background-repeat: var(--home-button-repeat, no-repeat);
